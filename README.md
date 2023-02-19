@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=🏮+Hello+there✨,+im+Ice-CreamAT+🏮" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=🏮+Hello+there✨,+im+Ice-CreamAT+🏮;🏮+I´m+✨+19+years+old+🏮;🏮+I'm✨+from+Brazil+🏮;🏮+I+Graduated+✨+Cyber+Security+🏮;🏮Be+✨+Welcome!+:%29🏮" alt="Typing SVG" />
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </h1>
