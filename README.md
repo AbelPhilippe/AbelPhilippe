@@ -33,13 +33,6 @@ Here are some ideas to get you started:
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-- **Social**:
-
-     <div> 
-  <a href="https://instagram.com/web.akiles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/abel-philippe-1921b01ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://discordapp.com/users/431886765922451468" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -83,6 +76,6 @@ Here are some ideas to get you started:
 
 <br>
 
-
 # ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight)  ![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ice-CreamAT&layout=compact&langs_count=7&theme=tokyonight&border_radius=0&text_color=7FFF7F&count_private=true)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=66c1da&height=100&section=footer">
