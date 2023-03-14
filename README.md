@@ -72,14 +72,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ice-CreamAT&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<h4 align="center"><samp>Profile View Counter:</samp></h4>
-
-<p align="center">
-  <kbd>
-    <a href="http://www.pudim.com.br/">
-      <img align="center" src="https://profile-counter.glitch.me/Ice-CreamAT/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
-    </a>
-  </kbd>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=66c1da&height=100&section=footer">
