@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66c1da&size=35&center=true&vCenter=true&width=1000&lines=🏮+Hello+there✨,+im+IceCreamAT+🏮;🏮+I´m+✨+19+years+old+🏮;🏮+I'm✨+from+Brazil+🏮;🏮+I+Graduated+✨+Information+Security+🏮;🏮Be+✨+Welcome!+:%29🏮)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66c1da&size=35&center=true&vCenter=true&width=1000&lines=🏮+Hello+there✨,+im+Ice-CreamAT+🏮;🏮+I´m+✨+19+years+old+🏮;🏮+I'm✨+from+Brazil+🏮;🏮+I+Graduated+✨+Information+Security+🏮;🏮Be+✨+Welcome!+:%29🏮)](https://git.io/typing-svg)
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </h1>
@@ -64,10 +64,10 @@
 
 <br>
 
-# ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IceCreamAT&show_icons=true&theme=tokyonight)  
-![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IceCreamAT&layout=compact&langs_count=7&theme=tokyonight&border_radius=0&text_color=7FFF7F&count_private=true)
+# ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight)  ![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=
+Ice-CreamAT&layout=compact&langs_count=7&theme=tokyonight&border_radius=0&text_color=7FFF7F&count_private=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IceCreamAT&bg_color=0d1117&color=4d62b9&line=4d62b9&point=66c1da&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ice-CreamAT&bg_color=0d1117&color=4d62b9&line=4d62b9&point=66c1da&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ice-CreamAT&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
