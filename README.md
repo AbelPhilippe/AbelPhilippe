@@ -64,7 +64,8 @@
 
 <br>
 
-# ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight)  ![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ice-CreamAT&layout=compact&langs_count=7&theme=tokyonight&border_radius=0&text_color=7FFF7F&count_private=true)
+# ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight)  ![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ice-CreamAT&layout=compact&langs_count=7&theme=dark&border_radius=0&text_color=7FFF7F&count_private=true)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ice-CreamAT&bg_color=0d1117&color=4d62b9&line=4d62b9&point=66c1da&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
