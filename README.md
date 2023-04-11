@@ -64,8 +64,8 @@
 
 <br>
 
-# ![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ice-CreamAT&layout=compact&langs_count=7&theme=tokyonight&border_radius=4&text_color=7FFF7F&count_private=true)
-# ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight)
+
+# ![AT's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight) ![AT's Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ice-CreamAT&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&text_color=7FFF7F&count_private=true)
 
 
 
