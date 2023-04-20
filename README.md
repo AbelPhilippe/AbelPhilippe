@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66c1da&size=35&center=true&vCenter=true&width=1000&lines=🏮+Hello+there✨,+im+Ice-CreamAT+🏮;🏮+I´m+✨+19+years+old+🏮;🏮+I'm✨+from+Brazil+🏮;🏮+I+Graduated+✨+Information+Security+🏮;🏮Be+✨+Welcome!+:%29🏮)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66c1da&size=35&center=true&vCenter=true&width=1000&lines=🏮+Hello+there✨,+im+Ice-CreamAT+🏮;🏮+I´m+✨+20+years+old+🏮;🏮+I'm✨+from+Brazil+🏮;🏮+I+Graduated+✨+Information+Security+🏮;🏮Be+✨+Welcome!+:%29🏮)](https://git.io/typing-svg)
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </h1>
