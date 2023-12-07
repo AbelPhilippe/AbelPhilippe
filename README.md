@@ -69,14 +69,14 @@
 
 <p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" align="center" src="https://readmestats.999857.xyz/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight" />
+    <img height="150em" align="left" src="https://readmestats.999857.xyz/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="150em" align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=Ice-CreamAT&langs_count=6&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
-<br>
+</br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ice-CreamAT&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
