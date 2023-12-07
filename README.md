@@ -67,7 +67,7 @@
 <br>
 
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150em" align="center" src="https://readmestats.999857.xyz/api?username=Ice-CreamAT&show_icons=true&theme=tokyonight" />
   </a>
@@ -76,9 +76,9 @@
   </a>
 </p>
 
+<br>
 
-
-<p align="right">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ice-CreamAT&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
