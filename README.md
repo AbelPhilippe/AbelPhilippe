@@ -12,7 +12,6 @@
   <div>
   <p align="center">
     <a href="https://www.linkedin.com/in/abelphilippe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@lacq_feynman/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
     <a href="https://www.codewars.com/users/Ice-CreamAT" target="_blanck"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
   </p>
 </div>
