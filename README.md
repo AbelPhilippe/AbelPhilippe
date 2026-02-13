@@ -42,7 +42,7 @@ Currently focused on building intelligent systems, security tools and experiment
 
 <td width="40%" align="center">
 
-<img src="src/lain1.gif" height="200"/>
+<img src="src/lain1.gif" height="450"/>
 
 </td>
 
