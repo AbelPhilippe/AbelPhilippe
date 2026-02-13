@@ -5,11 +5,11 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66c1da&size=35&center=true&vCenter=true&width=1000&lines=(/)+Hello+World+(/))](https://git.io/typing-svg)
  
-</h1>
+</h2>
 
-<p align="center">
+<h2 align="center">
   Machine Learning Engineer • Cyber • Researcher
-</p>
+</h2>
 
 ---
 
@@ -52,7 +52,11 @@ Currently focused on building intelligent systems, security tools and experiment
 
 ---
 
-## Connect With Me
+<p align="center">
+  <img src="src/lain2.gif" height="250"/>
+</p>
+
+<h1 align="center">Connect With Me</h1>
 
 <p align="center">
 
