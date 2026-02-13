@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+<h2 align="center">Welcome</h1>
 
 <div align="center">
 <table>
@@ -21,7 +21,7 @@
 
 <td width="60%">
 
-### Welcome!
+### About Me
 
 I'm a **Machine Learning Engineer and Security Researcher** passionate about:
 
