@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  Software Engineer • Cybersecurity • AI • Research
+  Machine Learning Engineer • Cyber • Researcher
 </p>
 
 ---
@@ -23,13 +23,12 @@
 
 ### Welcome!
 
-I'm a **Software Engineer and Security Researcher** passionate about:
+I'm a **Machine Learning Engineer and Security Researcher** passionate about:
 
--  Cybersecurity & Pentest  
--  Artificial Intelligence  
--  Machine Learning  
--  Research & Innovation  
--  Advanced Computing  
+-  Cybersecurity & Pentest
+-  Artificial Intelligence
+-  Research & Innovation 
+-  Advanced Computing
 
 Currently focused on building intelligent systems, security tools and experimental projects.
 
