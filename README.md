@@ -7,16 +7,13 @@
  
 </h1>
   
-<!-- ABOUT ME -->
+<img align="right" alt="" height="190px" src="./src/lain.gif">
 
-<p align="left">
-  Test
-</p>
+<h2 align="left">Connect with me!</h2>
 
-<!-- GIF -->
-<p align="right">
-  <img align="center" src="https://images.steamusercontent.com/ugc/1691653475053484698/6395912B3241C17AC151F6E137EDC2D653C23D79/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
-</p>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
