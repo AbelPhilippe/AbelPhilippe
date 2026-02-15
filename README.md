@@ -72,6 +72,10 @@ Currently focused on building intelligent systems, security tools and experiment
 <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6">
 </a>
 
+<a href="https://discord.com/users/641752259595599892">
+  <img src="https://img.shields.io/badge/Discord%23-000?style=for-the-badge&logo=discord&logoColor=FF00F6">
+</a>
+
 </p>
 
 ---
