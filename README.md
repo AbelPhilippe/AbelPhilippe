@@ -69,11 +69,11 @@ Currently focused on building intelligent systems, security tools and experiment
 </a>
 
 <a href="https://www.instagram.com/com.philips/">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6">
+<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=66c1da">
 </a>
 
 <a href="https://discord.com/users/641752259595599892">
-  <img src="https://img.shields.io/badge/Discord%23-000?style=for-the-badge&logo=discord&logoColor=FF00F6">
+  <img src="https://img.shields.io/badge/Discord%23-000?style=for-the-badge&logo=discord&logoColor=66c1da">
 </a>
 
 </p>
