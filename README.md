@@ -8,7 +8,7 @@
 </h2>
 
 <h2 align="center">
-  Machine Learning Engineer • Cyber • Researcher
+  Machine Learning Engineer • Kernel Linux Contributor • Researcher
 </h2>
 
 ---
